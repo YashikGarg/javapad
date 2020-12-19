@@ -1,4 +1,4 @@
-# <img style="float: right;" src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/icon.png" width="45px" height="45px">&nbsp;<span>Javapad</span>
+# <img style="float: right;" src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/icon.png" width="45px" height="45px">&nbsp;&nbsp;<span>Javapad</span>
 
 I have spent near more than one weeks to write this Notepad application
 
@@ -10,18 +10,18 @@ All the menu items will have actionListener to detect any action.
 
 ___
 
-## 🛠⚙ Try On Your Own Pc ?
+# 🛠⚙ Try On Your Own Pc ?
 
 Download This - <span style="color:blue">Click</span> [Here](https://github.com/YashikGarg/javapad/tree/main/executable%20jar%20file) To Download
 And Run This File
 
-### 💻 Requirment :-
+## 💻 Requirment :-
 
 - [x] JDK installed in your PC ☕ 
 
 ___
 
-## ✨ Some Salient Feature 
+# ✨ Some Salient Feature 
 
 - [x] Open And Saves File
 - [x] Find And Replace Function
@@ -31,48 +31,51 @@ ___
 
 ___
 
-## 📽 Video
+# 📽 Video
 ⏩ - 3x
 <br><br>
 ![default](https://github.com/YashikGarg/javapad/blob/main/sample%20images/that_gif.gif)
 ___
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### File Menu 
+## File Menu 
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/file.png" width="100%" >
 
-### Open
+## Open
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/open.PNG" width="100%" >
 
-### Edit Menu
+## Edit Menu
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/edit.png" width="100%" >
 
 
-### Format Menu
+## Format Menu
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/format.png" width="100%" >
 
-### Font Family
+## Font Family
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/font.png" width="100%" >
 
-### Bold
+## Bold
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/bold.png" width="100%" >
 
 
-### Italic
+## Italic
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/italic.png" width="100%" >
 
-### View Menu
+## View Menu
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/view.png" width="100%" >
 
 ___
 
 >If You Like It 🙋‍♂️ Please Drop a ⭐ 😉
+
+___
+
