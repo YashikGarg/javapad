@@ -1,6 +1,6 @@
 # <img style="float: right;" src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/icon.png" width="45px" height="45px">&nbsp;&nbsp;<span>Javapad</span>
 
-I have spent nearly more than one weeks to write this Notepad application
+I have spent nearly one weeks to write this Notepad application
 
 I write this in Java Swing . I use JTextArea, a JMenuBar and add JMenu to it and add JMenuItems. 
 
