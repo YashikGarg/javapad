@@ -76,6 +76,8 @@ ___
 ## Unsaved Warning
 
 <img src="https://github.com/YashikGarg/javapad/blob/main/sample%20images/warning.png" width="100%" >
+
+&nbsp;
 ___
 
 >If You Like It ✋ Please Drop a ⭐ 😉
